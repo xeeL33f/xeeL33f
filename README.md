@@ -13,3 +13,8 @@ Here are some ideas to get you started:-->
 - C#
 - Python
 
+## Interests
+- Backend Development
+- Cybersecurity
+- Machine Learning
+
