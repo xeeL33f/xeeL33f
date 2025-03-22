@@ -1,4 +1,4 @@
-## Hi there, my name is JAK Ramas, the first name which is short for John Adrian Kirk and I develop and create cool shit for personal enjoyment. 👋
+## Hi there, my name is JAK Ramas, I create cool shit for personal enjoyment. 👋
 
 <!--
 **xeeL33f/xeeL33f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
