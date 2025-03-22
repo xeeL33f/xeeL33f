@@ -8,8 +8,8 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning .NET MAUI.
 - 👯 I’m looking to collaborate with smarter-than-me type of people.
 
-  ## Languages I Know:
-  - C
-  - C#
-  - Python
+## Languages I Know:
+- C
+- C#
+- Python
 
