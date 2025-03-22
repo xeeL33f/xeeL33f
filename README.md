@@ -8,12 +8,12 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning .NET MAUI.
 - 👯 I’m looking to collaborate with smarter-than-me type of people.
 
-## Languages I Know:
+## 🔢 Languages I Know:
 - C
 - C#
 - Python
 
-## Interests
+## 🧐 Interests
 - Backend Development
 - Cybersecurity
 - Machine Learning
