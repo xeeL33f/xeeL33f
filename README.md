@@ -9,10 +9,10 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate with smarter-than-me type of people.
 
 ## 🔢 Languages I Know:
-- C
-- C#
-- Python
-
+![image](https://github.com/user-attachments/assets/006fed96-03f7-4600-964a-1365b38860dd)
+![image](https://github.com/user-attachments/assets/b5decf35-c5ed-4266-8be9-6e319aa7608f)
+![image](https://github.com/user-attachments/assets/e6991857-31bc-4978-a222-c931bb4a69bf)
+  
 ## 🧐 Interests
 - Backend Development
 - Cybersecurity
