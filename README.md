@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 - 🏫 I'm currently still in college.
-- 🌱 I’m currently learning .NET MAUI.
+- 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate with smarter-than-me type of people.
 
 ## 🔢 Languages I Know:
