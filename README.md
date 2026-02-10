@@ -6,7 +6,6 @@
 Here are some ideas to get you started:-->
 - 🏫 I'm currently still in college.
 - 🌱 I’m currently learning Flutter.
-- 👯 I’m looking to collaborate with smarter-than-me type of people.
 
 ## 🔢 Languages I Know:
 ![image](https://github.com/user-attachments/assets/006fed96-03f7-4600-964a-1365b38860dd)
