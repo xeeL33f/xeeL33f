@@ -17,6 +17,4 @@ Here are some ideas to get you started:-->
 - Backend Development
 - Cybersecurity
 - Machine Learning
-- IoT Technology
-- Microarchitecture
-
+- IoT (Internet of Things) Technology
